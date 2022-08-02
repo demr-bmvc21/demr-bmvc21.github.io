@@ -1,6 +1,6 @@
 # DeMR
 
-This is the repository that contains source code for the [DeMR website](https://demr-bmvc21.github.io).
+This is the repository that contains source code for the BMVC'21 paper, [DeMR](https://demr-bmvc21.github.io).
 
 If you find DeMR useful for your work please cite:
 ```
